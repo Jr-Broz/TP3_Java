@@ -6,13 +6,7 @@ public class App {
 
     public static void main(String[] args) {
 
-
-        Operacao operacao = new Operacao();
-
-        operacao.Somar(5,5);
-
-        operacao.Subtrair(1,9);
-
+        System.out.println("Fazendo Merge");
     }
 
 
